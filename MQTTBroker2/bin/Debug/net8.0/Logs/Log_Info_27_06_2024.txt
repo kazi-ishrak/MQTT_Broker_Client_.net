@@ -1,0 +1,35 @@
+27/06/2024 15:53:04.70 - started MQTT
+27/06/2024 15:57:18.14 - started MQTT
+27/06/2024 15:58:54.55 - started MQTT
+27/06/2024 15:59:21.38 - started MQTT
+27/06/2024 16:00:00.09 - Topic is:samples/temperature/living_room, Payload is: System.Byte[]
+27/06/2024 17:00:17.72 - started MQTT
+27/06/2024 17:00:45.73 - Topic is:samples/temperature/living_room, Payload is: System.Byte[]
+27/06/2024 17:02:01.21 - Topic is:mqttnet/samples/topic/1, Payload is: System.Byte[]
+27/06/2024 17:06:11.88 - started MQTT
+27/06/2024 17:06:12.05 - MQTT subscriber subscribed to a topic
+27/06/2024 17:50:23.64 - started MQTT
+27/06/2024 17:50:24.00 - MQTT subscriber subscribed to a topic
+27/06/2024 17:51:03.46 - Topic is:mqttnet/samples/topic/1, Payload is: System.Byte[]
+27/06/2024 17:51:03.48 - Received Application Message topic: mqttnet/samples/topic/1, and payload System.Byte[] 
+27/06/2024 17:52:42.25 - started MQTT
+27/06/2024 17:52:42.42 - MQTT subscriber subscribed to a topic
+27/06/2024 17:53:30.77 - started MQTT
+27/06/2024 17:53:30.98 - MQTT subscriber subscribed to a topic
+27/06/2024 17:54:21.03 - Received Application Message topic: mqttnet/samples/topic/1, and payload System.ArraySegment`1[System.Byte] 
+27/06/2024 17:57:54.58 - Received Application Message topic: mqttnet/samples/topic/1, and payload System.ArraySegment`1[System.Byte] 
+27/06/2024 17:57:55.94 - MQTT subscriber subscribed to a topic
+27/06/2024 17:59:03.42 - started MQTT
+27/06/2024 17:59:03.63 - MQTT subscriber subscribed to a topic
+27/06/2024 18:07:54.68 - Received Application Message topic: mqttnet/samples/topic/1, and payload System.ArraySegment`1[System.Byte] 
+27/06/2024 18:09:02.64 - started MQTT
+27/06/2024 18:09:03.00 - MQTT subscriber subscribed to a topic
+27/06/2024 18:09:10.88 - Received Application Message topic: mqttnet/samples/topic/1, and payload System.ArraySegment`1[System.Byte] 
+27/06/2024 18:09:47.20 - started MQTT
+27/06/2024 18:09:47.42 - MQTT subscriber subscribed to a topic
+27/06/2024 18:10:04.52 - Received Application Message topic: mqttnet/samples/topic/1, and payload System.ArraySegment`1[System.Byte] 
+27/06/2024 18:10:27.43 - started MQTT
+27/06/2024 18:10:49.15 - MQTT subscriber subscribed to a topic
+27/06/2024 18:13:33.89 - started MQTT
+27/06/2024 18:13:34.22 - MQTT subscriber subscribed to a topic
+27/06/2024 18:13:43.51 - Received Application Message topic: mqttnet/samples/topic/1, and payload test 

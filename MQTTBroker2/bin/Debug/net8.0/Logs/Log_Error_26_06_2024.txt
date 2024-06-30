@@ -1,0 +1,8 @@
+26/06/2024 15:25:09.16 - MQTTBrokerService.cs - PublishMessageFromBroker - 67 - Cannot access a disposed object.
+Object name: 'MqttServer'.
+26/06/2024 15:26:19.44 - MQTTBrokerService.cs - PublishMessageFromBroker - 67 - Cannot access a disposed object.
+Object name: 'MqttServer'.
+26/06/2024 15:29:07.04 - MQTTBrokerService.cs - PublishMessageFromBroker - 67 - Cannot access a disposed object.
+Object name: 'MqttServer'.
+26/06/2024 15:30:11.29 - MQTTBrokerService.cs - PublishMessageFromBroker - 67 - Cannot access a disposed object.
+Object name: 'MqttServer'.

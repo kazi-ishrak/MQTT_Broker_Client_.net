@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xGA5KiV99J8=",
+  "success": true,
+  "projectFilePath": "D:\\MQTT\\MQTTBroker2\\MQTTBroker2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\mqttnet\\4.3.6.1152\\mqttnet.4.3.6.1152.nupkg.sha512"
+  ],
+  "logs": []
+}

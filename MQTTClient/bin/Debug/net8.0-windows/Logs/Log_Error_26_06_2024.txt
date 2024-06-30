@@ -1,0 +1,1 @@
+26/06/2024 16:08:13.43 - Form1.cs - ConnectClient - 42 - Error while connecting host 'Unspecified/localhost:1883'.

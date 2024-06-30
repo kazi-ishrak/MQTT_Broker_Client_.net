@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MQTT\\MQTTBroker2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E31BA73-EA80-46B5-A817-7E18A26FA343}|MQTTBroker2.csproj|d:\\mqtt\\mqttbroker2\\services\\mqttsubscriberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E31BA73-EA80-46B5-A817-7E18A26FA343}|MQTTBroker2.csproj|solutionrelative:services\\mqttsubscriberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E31BA73-EA80-46B5-A817-7E18A26FA343}|MQTTBroker2.csproj|d:\\mqtt\\mqttbroker2\\services\\mqttbrokerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E31BA73-EA80-46B5-A817-7E18A26FA343}|MQTTBroker2.csproj|solutionrelative:services\\mqttbrokerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E31BA73-EA80-46B5-A817-7E18A26FA343}|MQTTBroker2.csproj|d:\\mqtt\\mqttbroker2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E31BA73-EA80-46B5-A817-7E18A26FA343}|MQTTBroker2.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E31BA73-EA80-46B5-A817-7E18A26FA343}|MQTTBroker2.csproj|d:\\mqtt\\mqttbroker2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E31BA73-EA80-46B5-A817-7E18A26FA343}|MQTTBroker2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\MQTT\\MQTTBroker2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\MQTT\\MQTTBroker2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAywBcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:07:40.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MQTT\\MQTTBroker2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\MQTT\\MQTTBroker2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:42:59.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MQTTBrokerService.cs",
+              "DocumentMoniker": "D:\\MQTT\\MQTTBroker2\\Services\\MQTTBrokerService.cs",
+              "RelativeDocumentMoniker": "Services\\MQTTBrokerService.cs",
+              "ToolTip": "D:\\MQTT\\MQTTBroker2\\Services\\MQTTBrokerService.cs",
+              "RelativeToolTip": "Services\\MQTTBrokerService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAlwBwAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:40:36.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MQTTSubscriberService.cs",
+              "DocumentMoniker": "D:\\MQTT\\MQTTBroker2\\Services\\MQTTSubscriberService.cs",
+              "RelativeDocumentMoniker": "Services\\MQTTSubscriberService.cs",
+              "ToolTip": "D:\\MQTT\\MQTTBroker2\\Services\\MQTTSubscriberService.cs",
+              "RelativeToolTip": "Services\\MQTTSubscriberService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAIA2wCcAAACwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T10:07:02.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

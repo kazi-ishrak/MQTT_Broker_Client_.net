@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MQTTBroker2.props" />
+</Project>

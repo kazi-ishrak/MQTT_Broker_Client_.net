@@ -1,0 +1,1 @@
+27/06/2024 17:57:55.91 - MQTTBrokerService.cs - Run_minimal_server - 40 - Only one usage of each socket address (protocol/network address/port) is normally permitted.
